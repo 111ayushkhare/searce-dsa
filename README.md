@@ -1,6 +1,6 @@
 ## Searce Data Structures Weekly Training
 
-### Today's Topics
+### Topics covered by me on DAY1 (Jan 24, 2022)
 
 * Arrays to solve today's challenge (Two pointer approach)
 * Singly linked list today's challenge and its implementation
