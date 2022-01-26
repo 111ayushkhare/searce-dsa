@@ -1,9 +1,10 @@
 ## Searce Data Structures Weekly Training
 
-### Today's Topics
+### Topics covered by me on DAY2 (Jan 25, 2022)
 
-* Arrays to solve today's challenge (Two pointer approach)
-* Singly linked list today's challenge and its implementation
+* Stack today's challenge (Max element)
+* Array implementation of stack
+* Singly linked list implementation of stack
 
 ### The directory structure -
 ```sh
@@ -13,7 +14,7 @@ searce-dsa
     |- src
     |   |- inputreader
     |   |    `- InputReader.java
-    |    `- week3day1
+    |    `- week3day2
     |        |- assignment --...
     |        `- practice --...
     |- README.md
