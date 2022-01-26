@@ -1,0 +1,24 @@
+Testcase 1:- 
+Item pushed: 1
+Item pushed: 2
+Item pushed: 3
+Item pushed: 4
+Item pushed: 5
+Item popped: 5
+Stack empty: false
+
+Testcase 2:- 
+Item pushed: 11
+Item pushed: 22
+Item pushed: 33
+Item pushed: 44
+Item pushed: 55
+Item pushed: 66
+Item pushed: 77
+Item popped: 77
+Stack empty: false
+
+Testcase 3:- 
+Item popped: -2147483648
+Stack empty: true
+
