@@ -1,0 +1,53 @@
+Testcase 1:- 
+---------------------------
+Item enqueued: 1
+Item enqueued: 2
+Item enqueued: 3
+Item enqueued: 4
+Item enqueued: 5
+Queue size: 5 
+Front element: 1 
+Rear element: 5 
+
+Item Dequeued: 1 
+Queue size: 4 
+Front element: 2 
+Rear element: 5 
+
+Item enqueued: 6 
+Queue size: 5 
+Front element: 2 
+Rear element: 6 
+
+Testcase 2:- 
+---------------------------
+Item enqueued: 11
+Item enqueued: 22
+Item enqueued: 33
+Item enqueued: 44
+Item enqueued: 55
+Queue size: 5 
+Front element: 11 
+Rear element: 55 
+
+Item Dequeued: 11 
+Queue size: 4 
+Front element: 22 
+Rear element: 55 
+
+Testcase 3:- 
+---------------------------
+Queue size: 0 
+Front element: -2147483648 
+Rear element: -2147483648 
+
+Item Dequeued: -2147483648 
+Queue size: 0 
+Front element: -2147483648 
+Rear element: -2147483648 
+
+Item enqueued: 6 
+Queue size: 1 
+Front element: 6 
+Rear element: 6 
+
