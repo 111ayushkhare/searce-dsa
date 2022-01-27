@@ -1,4 +1,4 @@
-package week3day3.practice.queue;
+package week3day3.practice.queue.arrayimplement;
 
 class QueueArrayImplementation {
     private final int CAPACITY;

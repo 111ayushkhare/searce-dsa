@@ -1,4 +1,4 @@
-package week3day3.practice.queue;
+package week3day3.practice.queue.arrayimplement;
 
 import inputreader.InputReader;
 
@@ -11,8 +11,8 @@ import java.io.IOException;
 public class TestQueue {
     public static void main(String[] args) throws IOException {
         // Reading input from a text file
-        File input = new File("src/week3day3/practice/queue/input.txt");
-        FileWriter output = new FileWriter("src/week3day3/practice/queue/output.txt");
+        File input = new File("src/week3day3/practice/queue/arrayimplement/input.txt");
+        FileWriter output = new FileWriter("src/week3day3/practice/queue/arrayimplement/output.txt");
         InputReader ir = new InputReader(new BufferedReader(new FileReader(input)));
 
         int T = ir.nextInt();
