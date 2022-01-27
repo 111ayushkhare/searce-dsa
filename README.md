@@ -1,12 +1,12 @@
 ## Searce Data Structures Weekly Training
 
-### Day wise branch links of this repository - 
+### Topics covered by me on DAY3 (Jan 27, 2022)
 
-* Week3 DAY1 (Jan 24, 2022) - https://github.com/111ayushkhare/searce-dsa/tree/week3day1
-* Week3 DAY2 (Jan 25, 2022) - https://github.com/111ayushkhare/searce-dsa/tree/week3day2
+* Went through hashing basic videos
+* Queue implementation by array
+* Queue implementation by linked list
 
-### The general directory structure -
-Language used : JAVA
+### The directory structure -
 ```sh
 searce-dsa
     |- .idea --...
@@ -14,7 +14,7 @@ searce-dsa
     |- src
     |   |- inputreader
     |   |    `- InputReader.java
-    |    `- weekXdayY
+    |    `- week3day3
     |        |- assignment --...
     |        `- practice --...
     |- README.md
