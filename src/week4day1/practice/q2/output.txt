@@ -1,0 +1,18 @@
+Testcase 1:- 
+Array has pairs with given sum=10: true
+
+Testcase 2:- 
+Array has pairs with given sum=14: true
+
+Testcase 3:- 
+Array has pairs with given sum=12: false
+
+Testcase 4:- 
+Array has pairs with given sum=12: true
+
+Testcase 5:- 
+Array has pairs with given sum=10: true
+
+Testcase 6:- 
+Array has pairs with given sum=12: true
+
