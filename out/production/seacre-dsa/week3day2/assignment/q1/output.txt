@@ -1,2 +1,10 @@
+Testcase: 1:- 
 26
 91
+
+Testcase: 2:- 
+80
+
+Testcase: 3:- 
+50
+
