@@ -25,6 +25,10 @@ class TestSorting {
             displaySortedArr(output,"Bubble Sort: ", new BubbleSort().bubbleSortOptimized(arr, n));
             displaySortedArr(output,"Insertion Sort: ", new InsertionSort().insertionSort(arr, n));
             displaySortedArr(output,"Selection Sort: ", new SelectionSort().selectionSort(arr, n));
+            displaySortedArr(output,"Merge Sort: ", new MergeSort().mergeSort(arr, 0, n - 1));
+
+            displaySortedArr(output,"Bucket Sort: ", new BucketSort().bucketSort(arr, n));
+            displaySortedArr(output,"Counting Sort: ", new CountingSort().countingSort(arr, n));
 
             output.write("\n");
         }
