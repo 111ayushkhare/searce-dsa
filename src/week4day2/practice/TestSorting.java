@@ -24,6 +24,7 @@ class TestSorting {
 
             displaySortedArr(output,"Bubble Sort: ", new BubbleSort().bubbleSortOptimized(arr, n));
             displaySortedArr(output,"Insertion Sort: ", new InsertionSort().insertionSort(arr, n));
+            displaySortedArr(output,"Selection Sort: ", new SelectionSort().selectionSort(arr, n));
 
             output.write("\n");
         }
