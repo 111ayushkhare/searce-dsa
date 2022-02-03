@@ -1,0 +1,21 @@
+Testcase 1:-  
+Subset sum with given sum output: true
+
+Testcase 2:-  
+Subset sum with given sum output: true
+
+Testcase 3:-  
+Subset sum with given sum output: true
+
+Testcase 4:-  
+Subset sum with given sum output: true
+
+Testcase 5:-  
+Subset sum with given sum output: true
+
+Testcase 6:-  
+Subset sum with given sum output: true
+
+Testcase 7:-  
+Subset sum with given sum output: false
+
