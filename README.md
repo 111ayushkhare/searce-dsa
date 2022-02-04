@@ -14,6 +14,7 @@ WEEK-4
 * Week4 DAY2 (Feb 01, 2022) - https://github.com/111ayushkhare/searce-dsa/tree/week4day2
 * Week4 DAY3 (Feb 02, 2022) - https://github.com/111ayushkhare/searce-dsa/tree/week4day3
 * Week4 DAY4 (Feb 03, 2022) - https://github.com/111ayushkhare/searce-dsa/tree/week4day4
+* Week4 DAY5 (Feb 04, 2022) - https://github.com/111ayushkhare/searce-dsa/tree/week4day5
 
 ### The general directory structure -
 Language used : JAVA
