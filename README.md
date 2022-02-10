@@ -16,6 +16,12 @@ WEEK-4
 * Week4 DAY4 (Feb 03, 2022) - https://github.com/111ayushkhare/searce-dsa/tree/week4day4
 * Week4 DAY5 (Feb 04, 2022) - https://github.com/111ayushkhare/searce-dsa/tree/week4day5
 
+WEEK-5
+* Week5 DAY1 (Feb 07, 2022) - S-loader project initialization
+* Week5 DAY2 (Feb 08, 2022) - S-loader project frontend progress
+* Week5 DAY3 (Feb 09, 2022) - S-loader project frontend work
+* Week5 DAY4 (Feb 10, 2022) - https://github.com/111ayushkhare/searce-dsa/tree/week5day4
+
 ### The general directory structure -
 Language used : JAVA
 ```sh
